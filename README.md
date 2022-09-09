@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<h2 align="center">
-<hr>
-KuinDev RPM-SSH Script
-<h2><hr>
+
+<div id="welcome" align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=KuinDev RPM-SSH Script"/>
+</div>
+
 
 <h3 align="center">
 Operating System Supported
@@ -15,14 +15,12 @@ Operating System Supported
 <h3 align="center">
 Addons Service
 </h3>
+
 <p align="center">
 <a href="https://github.com/wildysheverando-project/autoscript/">
   <img src="https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/icons/addons%20v2ray%20trojan.png">
 </a>
 </p>
-  <h2>
-<hr>
-  </h2>
 
 ## ❗ Supported OS ❗
 <b>
