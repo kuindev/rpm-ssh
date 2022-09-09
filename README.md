@@ -24,6 +24,9 @@
 ✔ Cron<br>
 ✔ WebSocket ePro<br>
 ✔ BadVPN-UDPGW<br>
+✔ Speedtest by Ookla<br>
+✔ Speedtest by Fast.com<br>
+✔ Bench by Teddysun<br>
 </b>
 
 ## 🔰 Port Information 🔰
