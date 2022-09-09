@@ -4,7 +4,7 @@
 </div>
 <hr>
 
-<h2><center>Simple SSH Tunneling Script For RPM Packages OS</h2></center>
+<h2 align="center">SSH Tunneling Script for OS Used RPM Packages</h2>
 
 
 ## ❗ Supported OS ❗
