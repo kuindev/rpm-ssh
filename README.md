@@ -1,7 +1,5 @@
 <div id="welcome" align="center">
-<hr>
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=KuinDev%20SSH%20Tunneling%20Script" height="100%" width="100%"/>
-<hr>
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=KuinDev%20SSH%20Tunneling%20Script" height="100%" width="100%"/><hr>
 </div>
 
 <h2 align="center">SSH Script For OS using RPM packages</h2>
