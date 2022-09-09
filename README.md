@@ -4,23 +4,6 @@
 </div>
 
 
-<h3 align="center">
-Operating System Supported
-</h3>
-<p align="center">
-<a href="https://github.com/wildysheverando-project/autoscript/">
-  <img src="Image/os.png">
-</a>
-</p>
-<h3 align="center">
-Addons Service
-</h3>
-
-<p align="center">
-<a href="https://github.com/wildysheverando-project/autoscript/">
-  <img src="https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/icons/addons%20v2ray%20trojan.png">
-</a>
-</p>
 
 ## ❗ Supported OS ❗
 <b>
