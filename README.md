@@ -1,6 +1,6 @@
 
 <div id="welcome" align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=KuinDev%20RPM-SSH%20Script"/ height="50px" width="50px">
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=KuinDev%20RPM-SSH%20Script" height="100px" width="100px"/>
 </div>
 <hr>
 
