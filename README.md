@@ -3,7 +3,7 @@
 <hr>
 </div>
 
-<h2 align="center">SSH Tunneling Script for OS Used RPM Packages</h2>
+<h2 align="center">SSH Script For OS using RPM packages</h2>
 
 
 ## ❗ Supported OS ❗
