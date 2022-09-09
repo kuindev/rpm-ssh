@@ -2,7 +2,9 @@
 <div id="welcome" align="center" font-size="80px">
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=KuinDev%20RPM-SSH%20Script"/>
 </div>
+<hr>
 
+<h2><center>Simple SSH Tunneling Script For RPM Packages OS</h2></center>
 
 
 ## ❗ Supported OS ❗
