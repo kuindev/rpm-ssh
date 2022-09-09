@@ -1,5 +1,5 @@
 
-<div id="welcome" align="center">
+<div id="welcome" align="center" font-size="20px">
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=KuinDev%20RPM-SSH%20Script"/>
 </div>
 
