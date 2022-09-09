@@ -24,6 +24,7 @@
 ✔ Cron<br>
 ✔ WebSocket ePro<br>
 ✔ BadVPN-UDPGW<br>
+✔ Vnstat Network Monitoring<br>
 ✔ Speedtest by Ookla<br>
 ✔ Speedtest by Fast.com<br>
 ✔ Bench by Teddysun<br>
